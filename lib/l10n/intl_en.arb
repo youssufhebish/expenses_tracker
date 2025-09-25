@@ -1,0 +1,108 @@
+{
+  "@@locale": "en",
+  
+  "addExpense": "Add Expense",
+  "@addExpense": {
+    "description": "Title for the add expense screen"
+  },
+  
+  "saveExpense": "Save Expense",
+  "@saveExpense": {
+    "description": "Button text to save an expense"
+  },
+  
+  "save": "Save",
+  "@save": {
+    "description": "Generic save button text"
+  },
+  
+  "retry": "Retry",
+  "@retry": {
+    "description": "Button text to retry an action"
+  },
+  
+  "income": "Income",
+  "@income": {
+    "description": "Label for income transactions"
+  },
+  
+  "expense": "Expense",
+  "@expense": {
+    "description": "Label for expense transactions"
+  },
+  
+  "enterAmount": "Enter amount",
+  "@enterAmount": {
+    "description": "Hint text for amount input field"
+  },
+  
+  "selectDate": "Select date",
+  "@selectDate": {
+    "description": "Hint text for date selection field"
+  },
+  
+  "uploadImage": "Upload image",
+  "@uploadImage": {
+    "description": "Hint text for image upload field"
+  },
+  
+  "pleaseSelectCategory": "Please select a category",
+  "@pleaseSelectCategory": {
+    "description": "Error message when no category is selected"
+  },
+  
+  "expenseAddedSuccessfully": "Expense added successfully",
+  "@expenseAddedSuccessfully": {
+    "description": "Success message when expense is added"
+  },
+  
+  "failedToAddExpense": "Failed to add expense. Please try again.",
+  "@failedToAddExpense": {
+    "description": "Error message when expense addition fails"
+  },
+  
+  "failedToSaveReceipt": "Failed to save receipt. Please try again.",
+  "@failedToSaveReceipt": {
+    "description": "Error message when receipt saving fails"
+  },
+  
+  "failedToLoadExpenses": "Failed to load expenses",
+  "@failedToLoadExpenses": {
+    "description": "Error message when expenses loading fails"
+  },
+  
+  "categoryFood": "Food",
+  "@categoryFood": {
+    "description": "Food category name"
+  },
+  
+  "categoryTransport": "Transport",
+  "@categoryTransport": {
+    "description": "Transport category name"
+  },
+  
+  "categoryShopping": "Shopping",
+  "@categoryShopping": {
+    "description": "Shopping category name"
+  },
+  
+  "categoryEntertainment": "Entertainment",
+  "@categoryEntertainment": {
+    "description": "Entertainment category name"
+  },
+  
+  "categoryHealth": "Health",
+  "@categoryHealth": {
+    "description": "Health category name"
+  },
+  
+  "categoryEducation": "Education",
+  "@categoryEducation": {
+    "description": "Education category name"
+  },
+  
+  "categoryOther": "Other",
+  "@categoryOther": {
+    "description": "Other category name"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "@@locale": "ar",
+  
+  "addExpense": "إضافة مصروف",
+  "@addExpense": {
+    "description": "Title for the add expense screen"
+  },
+  
+  "saveExpense": "حفظ المصروف",
+  "@saveExpense": {
+    "description": "Button text to save an expense"
+  },
+  
+  "save": "حفظ",
+  "@save": {
+    "description": "Generic save button text"
+  },
+  
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "Button text to retry an action"
+  },
+  
+  "income": "دخل",
+  "@income": {
+    "description": "Label for income transactions"
+  },
+  
+  "expense": "مصروف",
+  "@expense": {
+    "description": "Label for expense transactions"
+  },
+  
+  "enterAmount": "أدخل المبلغ",
+  "@enterAmount": {
+    "description": "Hint text for amount input field"
+  },
+  
+  "selectDate": "اختر التاريخ",
+  "@selectDate": {
+    "description": "Hint text for date selection field"
+  },
+  
+  "uploadImage": "رفع صورة",
+  "@uploadImage": {
+    "description": "Hint text for image upload field"
+  },
+  
+  "pleaseSelectCategory": "يرجى اختيار فئة",
+  "@pleaseSelectCategory": {
+    "description": "Error message when no category is selected"
+  },
+  
+  "expenseAddedSuccessfully": "تم إضافة المصروف بنجاح",
+  "@expenseAddedSuccessfully": {
+    "description": "Success message when expense is added"
+  },
+  
+  "failedToAddExpense": "فشل في إضافة المصروف. يرجى المحاولة مرة أخرى.",
+  "@failedToAddExpense": {
+    "description": "Error message when expense addition fails"
+  },
+  
+  "failedToSaveReceipt": "فشل في حفظ الإيصال. يرجى المحاولة مرة أخرى.",
+  "@failedToSaveReceipt": {
+    "description": "Error message when receipt saving fails"
+  },
+  
+  "failedToLoadExpenses": "فشل في تحميل المصروفات",
+  "@failedToLoadExpenses": {
+    "description": "Error message when expenses loading fails"
+  },
+  
+  "categoryFood": "طعام",
+  "@categoryFood": {
+    "description": "Food category name"
+  },
+  
+  "categoryTransport": "مواصلات",
+  "@categoryTransport": {
+    "description": "Transport category name"
+  },
+  
+  "categoryShopping": "تسوق",
+  "@categoryShopping": {
+    "description": "Shopping category name"
+  },
+  
+  "categoryEntertainment": "ترفيه",
+  "@categoryEntertainment": {
+    "description": "Entertainment category name"
+  },
+  
+  "categoryHealth": "صحة",
+  "@categoryHealth": {
+    "description": "Health category name"
+  },
+  
+  "categoryEducation": "تعليم",
+  "@categoryEducation": {
+    "description": "Education category name"
+  },
+  
+  "categoryOther": "أخرى",
+  "@categoryOther": {
+    "description": "Other category name"
+  }
+}
